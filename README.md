@@ -10,9 +10,11 @@
 
 ## Apply TDD on thoses steps
 
-/!\ keep in mind that TDD is starting at the first line of code. In this dojo I already created the apex class to start demo faster
+Start with the Apex Class TDD_codingDojoExercice. Only add test when you completed a full TDD cycle.
 
 Find the smallest and uniq factors of a given number.
+
+Here are the tests with expected results:
 
 1. factors of null is null
 2. factors of 0 is 0
